@@ -159,7 +159,7 @@ body {
 		opacity: 1;
 	}
 	100%{
-		background-image: url('/img/bulb_red.png');
+		background-image: url('img/bulb_red.png');
 		opacity: 1;
 	}
 }
@@ -178,7 +178,7 @@ body {
 }
 @keyframes bulb_glow_red {
 	0%{
-		background-image: url('/img/bulb.png');
+		background-image: url('img/bulb.png');
 		opacity: 0;
 	}
 	50%{
